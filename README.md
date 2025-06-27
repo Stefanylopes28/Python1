@@ -1,2 +1,4 @@
 # Python1
-Desenvolvi pequenos programas em Python para praticar lógica de programação. Criei um programa de saudação personalizado, uma calculadora de soma, uma calculadora de volume para uma caixa retangular e uma calculadora de preço total para uma compra. Cada programa é organizado, claro e exibe os resultados de forma objetiva.
+
+Nessa atividade da Escola da Nuvem, desenvolvi alguns programas em Python para reforçar minha prática com lógica de programação. Criei desde um programa simples de saudação até calculadoras para soma, volume de caixa e preço total de compras. Todos os códigos foram escritos de forma clara, organizada e com foco em exibir os resultados de maneira direta, facilitando o entendimento. Esse exercício ajudou a consolidar conceitos básicos e a aplicar a programação para resolver problemas do dia a dia de forma prática.
+
